@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  video: MyString
+  title: MyString
+  description: MyText
+  author: MyString
+  url: MyString
+  comment: MyText
+  like: 1
+  dislike: 1
+  user: one
+
+two:
+  video: MyString
+  title: MyString
+  description: MyText
+  author: MyString
+  url: MyString
+  comment: MyText
+  like: 1
+  dislike: 1
+  user: two
